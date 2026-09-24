@@ -1,73 +1,74 @@
-# Full 50-Repository Roadmap – AI-2036 Off-Grid Sustaining Systems
+# Full 50-Repository Roadmap – AI-2036 Off-Grid Human Living Devices
 
-## Energy & Power
-1. ai-2036-solar-swarm-optimizer
-2. offgrid-microgrid-ai-controller
-3. kinetic-harvest-neural-net
-4. thermoelectric-ai-scavenger
-5. hydrogen-loop-sustainer-ai
+**Focus: Personal, portable, wearable, and modular devices for independent human living off-grid.**
 
-## Water & Resource Cycles
-6. atmospheric-water-ai-extractor
-7. closed-loop-water-reclaimer-2036
-8. rain-predictive-storage-ai
-9. greywater-neural-purifier
-10. desalination-edge-ai-unit
+## Personal Power Devices
+1. wearable-solar-kinetic-charger ✅ (live)
+2. micro-thermoelectric-body-harvester
+3. portable-hydrogen-micro-fuelcell
+4. ai-optimized-battery-swarm-pack
+5. ambient-rf-energy-scavenger
 
-## Food & Bioreactors
-11. vertical-farm-ai-2036
-12. mycelium-protein-reactor-ai
-13. aquaponics-swarm-controller
-14. soil-less-nutrient-ai
-15. insect-protein-automation-ai
+## Water Living Devices
+6. personal-atmospheric-water-generator ✅ (live)
+7. handheld-ai-water-purifier
+8. wearable-hydration-monitor-system
+9. portable-greywater-reclaimer
+10. solar-desalination-pocket-unit
 
-## Shelter & Habitat
-16. self-healing-habitat-ai ✅ (live)
-17. modular-offgrid-dome-ai
-18. thermal-envelope-optimizer
-19. 3d-printed-shelter-swarm
-20. adaptive-insulation-ai
+## Shelter & Climate Devices
+11. personal-modular-shelter-pod
+12. wearable-climate-control-suit
+13. inflatable-ai-habitat-module
+14. mycelium-grown-personal-pod
+15. thermal-adaptive-sleep-system
 
-## Waste & Circularity
-21. zero-waste-ai-orchestrator
-22. plastic-to-fuel-edge-ai
-23. compost-intelligence-system
-24. e-waste-recycler-ai-2036
-25. biochar-carbon-loop-ai
+## Food & Nutrition Devices
+16. portable-bioreactor-nutrient-unit ✅ (live)
+17. personal-vertical-micro-farm
+18. ai-insect-protein-harvester
+19. mycelium-protein-personal-reactor
+20. nutrient-synthesis-edge-device
 
-## Communication & Edge Compute
-26. mesh-network-ai-nodes
-27. satellite-independent-comms-ai
-28. low-power-llm-edge-2036
-29. offline-knowledge-base-ai
-30. swarm-drone-relay-ai
+## Health & Resilience Devices
+21. offgrid-ai-diagnostic-wearable ✅ (live)
+22. portable-emergency-medical-kit-ai
+23. air-quality-personal-monitor
+24. mental-resilience-companion-device
+25. nutrient-deficiency-scanner
 
-## Health & Resilience
-31. offgrid-medical-ai-diagnostic
-32. air-quality-neural-monitor
-33. emergency-response-swarm-ai
-34. mental-resilience-companion-ai
-35. nutrient-deficiency-predictor
+## Waste & Circularity Devices
+26. personal-compost-intelligence-unit
+27. portable-waste-to-energy-converter
+28. e-waste-personal-recycler
+29. biochar-micro-producer
+30. zero-waste-living-orchestrator
 
-## Mobility & Logistics
-36. solar-ev-swarm-optimizer
-37. cargo-drone-offgrid-ai
-38. human-powered-assist-ai
-39. trail-mapping-autonomous-ai
-40. supply-chain-resilience-ai
+## Comfort, Tools & Comms
+31. ultra-low-power-mesh-communicator
+32. offline-knowledge-companion-ai
+33. solar-cooking-ai-optimizer
+34. adaptive-lighting-wearable
+35. navigation-trail-ai-device
 
-## Security & Autonomy
-41. perimeter-ai-sentinel-2036
-42. identity-free-access-ai
-43. threat-prediction-edge-model
-44. autonomous-repair-bots-ai
-45. decentralized-identity-offgrid
+## Advanced / Meta Devices
+36. swarm-drone-personal-assistant
+37. edge-llm-living-assistant
+38. self-repairing-tool-kit-ai
+39. identity-free-access-device
+40. decentralized-living-dao-node
 
-## Meta / Systems
+## Supporting Habitat & Systems (41–50)
+41. self-healing-habitat-ai ✅ (live)
+42. mycelium-construction-ai-2036 ✅ (live)
+43. modular-offgrid-dome-ai
+44. thermal-envelope-optimizer
+45. adaptive-insulation-ai
 46. ai-2036-offgrid-orchestrator ✅ (this repo)
 47. simulation-digital-twin-habitat
 48. open-source-ai-model-zoo-offgrid
 49. hardware-schematics-ai-2036
 50. community-governance-ai-dao
 
-Additional specialized track: mycelium-construction-ai-2036 ✅ (live)
+---
+*Updated 2026-09-24 – pivoted fully to Off-Grid Human Living Devices*
