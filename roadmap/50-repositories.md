@@ -4,20 +4,20 @@
 
 ## Personal Power Devices
 1. wearable-solar-kinetic-charger ✅ (live)
-2. micro-thermoelectric-body-harvester
+2. micro-thermoelectric-body-harvester ✅ (live)
 3. portable-hydrogen-micro-fuelcell
 4. ai-optimized-battery-swarm-pack
 5. ambient-rf-energy-scavenger
 
 ## Water Living Devices
 6. personal-atmospheric-water-generator ✅ (live)
-7. handheld-ai-water-purifier
+7. handheld-ai-water-purifier ✅ (live)
 8. wearable-hydration-monitor-system
 9. portable-greywater-reclaimer
 10. solar-desalination-pocket-unit
 
 ## Shelter & Climate Devices
-11. personal-modular-shelter-pod
+11. personal-modular-shelter-pod ✅ (live)
 12. wearable-climate-control-suit
 13. inflatable-ai-habitat-module
 14. mycelium-grown-personal-pod
@@ -25,14 +25,14 @@
 
 ## Food & Nutrition Devices
 16. portable-bioreactor-nutrient-unit ✅ (live)
-17. personal-vertical-micro-farm
+17. personal-vertical-micro-farm ✅ (live)
 18. ai-insect-protein-harvester
 19. mycelium-protein-personal-reactor
 20. nutrient-synthesis-edge-device
 
 ## Health & Resilience Devices
 21. offgrid-ai-diagnostic-wearable ✅ (live)
-22. portable-emergency-medical-kit-ai
+22. portable-emergency-medical-kit-ai ✅ (live)
 23. air-quality-personal-monitor
 24. mental-resilience-companion-device
 25. nutrient-deficiency-scanner
@@ -71,4 +71,4 @@
 50. community-governance-ai-dao
 
 ---
-*Updated 2026-09-24 – pivoted fully to Off-Grid Human Living Devices*
+*Updated 2026-09-24 – continued build of device repositories*
